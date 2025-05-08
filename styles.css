@@ -1,5 +1,5 @@
 header {
-    display: flex
+    display: flex;
     align-items: center; /* Align items vertically */
     justify-content: space-between; /* Space out items horizontally */
     padding: 400px;
